@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://duapyd1y0gk6b"]
+
+[node name="BloodText" type="LineEdit"]
+offset_left = 32.0
+offset_right = 99.0625
+offset_bottom = 31.0
+text = "0"
+alignment = 1
+
+[node name="LineEdit" type="LineEdit" parent="."]
+layout_mode = 0
+offset_left = -32.0
+offset_top = 27.0
+offset_right = 104.0
+offset_bottom = 58.0
+text = "Sangues Doados"

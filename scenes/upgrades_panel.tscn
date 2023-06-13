@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://sfkhjvlv2sj7"]
+
+[node name="UpgradesPanel" type="Panel"]
+offset_right = 40.0
+offset_bottom = 40.0
+scale = Vector2(10, 10.96)

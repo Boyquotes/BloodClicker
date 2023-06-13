@@ -1,11 +1,9 @@
 extends Node2D
 
+@onready var button = $Button
+@onready var bloodText = $BloodText
 
-# Called when the node enters the scene tree for the first time.
-func _ready():
+func _on_clicked():
+	Variables.blood += 1
+	bloodText.text = str(Variables.blood)
 	pass # Replace with function body.
-
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta):
-	pass
