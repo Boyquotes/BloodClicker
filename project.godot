@@ -22,8 +22,8 @@ Upgrades="*res://scenes/upgrades.gd"
 
 [display]
 
-window/size/viewport_width=400
-window/size/viewport_height=600
+window/size/viewport_width=720
+window/size/viewport_height=1080
 
 [input]
 
