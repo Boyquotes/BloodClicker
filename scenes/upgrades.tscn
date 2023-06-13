@@ -4,3 +4,6 @@
 
 [node name="Upgrades" type="Node"]
 script = ExtResource("1_ykit4")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(197, 110)

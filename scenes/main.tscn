@@ -20,6 +20,7 @@ offset_left = 172.0
 offset_top = 342.0
 offset_right = 239.062
 offset_bottom = 373.0
+metadata/_edit_use_anchors_ = true
 
 [node name="Variables" parent="." instance=ExtResource("4_unri4")]
 
